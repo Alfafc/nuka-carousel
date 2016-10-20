@@ -19,6 +19,7 @@ git merge nowarkdev/fix-backwards-scroll-flicker
 git remote add aij https://github.com/aij/nuka-carousel
 git fetch aij
 git merge aij/slideHeight
+```
 
 ******************************
 
