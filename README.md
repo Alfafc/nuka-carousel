@@ -1,9 +1,13 @@
-#nuka-carousel (this is a clean fork of https://github.com/FormidableLabs/nuka-carousel with some pull-request applied)
+#nuka-carousel
 
-+******************************
-+Pull-request applied:
-+https://github.com/FormidableLabs/nuka-carousel/pull/134
-+https://github.com/FormidableLabs/nuka-carousel/pull/148
+(this is a clean fork of https://github.com/FormidableLabs/nuka-carousel with some pull-requests applied)
+
+******************************
+Pull-request applied:
+
+https://github.com/FormidableLabs/nuka-carousel/pull/134
+
+https://github.com/FormidableLabs/nuka-carousel/pull/148
 
 ```
 git remote add nowarkdev https://github.com/nowarkdev/nuka-carousel.git
@@ -15,9 +19,8 @@ git merge nowarkdev/fix-backwards-scroll-flicker
 git remote add aij https://github.com/aij/nuka-carousel
 git fetch aij
 git merge aij/slideHeight
-```
 
-+******************************+
+******************************
 
 A Pure ReactJS Carousel Component
 
