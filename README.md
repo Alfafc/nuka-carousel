@@ -21,6 +21,12 @@ git fetch aij
 git merge aij/slideHeight
 ```
 
+Finally
+
+```
+gulp build
+```
+
 ******************************
 
 A Pure ReactJS Carousel Component
