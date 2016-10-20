@@ -1,6 +1,6 @@
 #nuka-carousel
 
-(this is a clean fork of https://github.com/FormidableLabs/nuka-carousel with some pull-requests applied)
+Fork of https://github.com/FormidableLabs/nuka-carousel with some pull-requests applied
 
 ******************************
 Pull-request applied:
