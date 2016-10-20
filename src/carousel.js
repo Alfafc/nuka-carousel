@@ -669,6 +669,7 @@ const Carousel = React.createClass({
     } else {
       slideHeight = props.heightMode === 'max' && this.state.slideHeight || props.initialSlideHeight || 0;
       for (let i = 0; i < slides.length; i++) {
+        console.log("slideHeight", slideHeight, "slide Height" , i , slides[i].offsetHeight);
         slideHeight = Math.max(slideHeight, slides[i].offsetHeight);
       }
     }
