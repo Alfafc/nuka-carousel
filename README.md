@@ -3,7 +3,7 @@
 Fork of https://github.com/FormidableLabs/nuka-carousel with some pull-requests applied
 
 ******************************
-Pull-request applied:
+Pull-requests applied:
 
 https://github.com/FormidableLabs/nuka-carousel/pull/134
 
